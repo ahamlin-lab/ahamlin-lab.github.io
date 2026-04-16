@@ -2,7 +2,14 @@
 title: "Bone Remodeling: How the Skeleton Renews Itself"
 subtitle: "The Dynamic Lifecycle of Living Tissue"
 author: "Akeema Hamlin"
-format: revealjs
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    include-after-body: date.html
 ---
 
 ## Introduction – More Than a Framework
