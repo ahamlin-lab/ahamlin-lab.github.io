@@ -11,7 +11,7 @@ format: revealjs
 * **The Constant Cycle:** Every year, about **10%** of your adult skeleton is completely replaced.
 * **Bone Remodeling defined:** The coupled process of removing old bone and replacing it with new, mineralized matrix.
 
-> **Visual Directive:** A circular diagram showing the transition from "Resting" to "Resorption" to "Formation."
+
 
 ---
 
@@ -23,7 +23,6 @@ format: revealjs
 * **Formation:** New mineral (hydroxyapatite) is deposited to fill the voids.
 * **Homeostasis:** This isn't just about growth; it's about maintaining calcium levels in the blood, which is vital for heart and muscle function.
 
-> **Visual Directive:** A split-screen graphic: One side showing a "Micro-pothole" being dug in the bone, the other showing it being paved over with fresh material.
 
 ---
 
@@ -37,7 +36,6 @@ format: revealjs
 * **Osteocytes (The "Managers"):**
   * Former osteoblasts trapped in the matrix; they sense mechanical strain and tell the others when to start working.
 
-> **Visual Directive:** A diagram illustrating the physical differences in cell shapes and their specific actions on the bone surface (osteoclasts vs. osteoblasts).
 
 ---
 
@@ -48,7 +46,7 @@ format: revealjs
   * **Too much resorption:** Leads to porous, brittle bones.
   * **Too much formation:** Can lead to bone spurs or abnormally thick, heavy bones.
 
-> **Visual Directive:** A "Scale" graphic (seesaw). On a healthy slide, the scale is level. On an "unhealthy" slide, the "Resorption" side is weighed down.
+
 
 ---
 
@@ -61,7 +59,7 @@ format: revealjs
   * Released by the thyroid when blood calcium is **high**.
   * Inhibits osteoclasts and encourages calcium "storage" in the bone.
 
-> **Visual Directive:** A feedback loop diagram showing the Parathyroid and Thyroid glands interacting with the skeleton for hormonal regulation of calcium.
+
 
 ---
 
@@ -73,7 +71,7 @@ format: revealjs
   * **Muscles:** Essential for contraction.
   * **Nerves:** Required for sending electrical signals.
 
-> **Visual Directive:** A graphic showing a tennis player's dominant arm bone being denser than their non-dominant arm bone to show adaptation.
+
 
 ---
 
@@ -83,7 +81,6 @@ format: revealjs
 * **The Cellular Cause:** Osteoclasts outpace Osteoblasts.
 * **Risk Factors:** Aging, hormonal changes (menopause), and lack of Vitamin D/Calcium.
 
-> **Visual Directive:** A side-by-side microscopic comparison showing the "thinning" of the bone lattice (healthy bone vs. osteoporosis).
 
 ---
 
@@ -93,7 +90,7 @@ format: revealjs
 * **Precision Control:** Driven by specialized cells and regulated by hormones.
 * **Foundational Health:** Understanding remodeling is key to preventing fractures and maintaining mobility into old age.
 
-> **Visual Directive:** A "Summary Icon" list: A cell icon, a hormone icon, and a strong-arm icon.
+
 
 ---
 
