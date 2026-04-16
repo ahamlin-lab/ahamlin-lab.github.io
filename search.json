@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Tutorials",
     "section": "",
-    "text": "Quarto manuscript\n\n\n\n\n\n\n\n\n1776345438\n\n\nMartin Laptev\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto presentation\n\n\n\n\n\n\n\n\n1776345438\n\n\nMartin Laptev\n\n\n\n\n\nNo matching items\nAttributions\n\nArtwork from “Hello, Quarto” keynote by Mine Çetinkaya-Rundel and Julia Stewart Lowndes, presented at RStudio Conference 2022. Illustrated by Allison Horst.\n\n\n\nA schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto.\n\n\n\n\n\nTwo penguins in a room made of ice, looking out a window. One penguin is holding an icicle as a pointer, pointing at a Quarto logo “moon” in the sky, while the other penguin looks on.\n\n\nFor more from Allison, see her website and GitHub."
+    "text": "Quarto manuscript\n\n\n\n\n\n\n\n\n1776364970\n\n\nMartin Laptev\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto presentation\n\n\n\n\n\n\n\n\n1776364970\n\n\nMartin Laptev\n\n\n\n\n\nNo matching items\nAttributions\n\nArtwork from “Hello, Quarto” keynote by Mine Çetinkaya-Rundel and Julia Stewart Lowndes, presented at RStudio Conference 2022. Illustrated by Allison Horst.\n\n\n\nA schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto.\n\n\n\n\n\nTwo penguins in a room made of ice, looking out a window. One penguin is holding an icicle as a pointer, pointing at a Quarto logo “moon” in the sky, while the other penguin looks on.\n\n\nFor more from Allison, see her website and GitHub."
   },
   {
     "objectID": "posts/presentation/index.html",
@@ -67,56 +67,56 @@
     "href": "posts/presentation/demo/index.html#introduction-more-than-a-framework",
     "title": "Bone Remodeling: How the Skeleton Renews Itself",
     "section": "Introduction – More Than a Framework",
-    "text": "Introduction – More Than a Framework\n\nBone is Living Tissue: Unlike a building’s steel beams, bone is metabolically active.\nThe Constant Cycle: Every year, about 10% of your adult skeleton is completely replaced.\nBone Remodeling defined: The coupled process of removing old bone and replacing it with new, mineralized matrix.\n\n\nVisual Directive: A circular diagram showing the transition from “Resting” to “Resorption” to “Formation.”"
+    "text": "Introduction – More Than a Framework\n\nBone is Living Tissue: Unlike a building’s steel beams, bone is metabolically active.\nThe Constant Cycle: Every year, about 10% of your adult skeleton is completely replaced.\nBone Remodeling defined: The coupled process of removing old bone and replacing it with new, mineralized matrix."
   },
   {
     "objectID": "posts/presentation/demo/index.html#the-mechanics-resorption-formation",
     "href": "posts/presentation/demo/index.html#the-mechanics-resorption-formation",
     "title": "Bone Remodeling: How the Skeleton Renews Itself",
     "section": "The Mechanics – Resorption & Formation",
-    "text": "The Mechanics – Resorption & Formation\nTwo Sides of the Coin:\n\nResorption: Specialized cells “dissolve” bone mineral and break down the collagen matrix.\nFormation: New mineral (hydroxyapatite) is deposited to fill the voids.\nHomeostasis: This isn’t just about growth; it’s about maintaining calcium levels in the blood, which is vital for heart and muscle function.\n\n\nVisual Directive: A split-screen graphic: One side showing a “Micro-pothole” being dug in the bone, the other showing it being paved over with fresh material."
+    "text": "The Mechanics – Resorption & Formation\nTwo Sides of the Coin:\n\nResorption: Specialized cells “dissolve” bone mineral and break down the collagen matrix.\nFormation: New mineral (hydroxyapatite) is deposited to fill the voids.\nHomeostasis: This isn’t just about growth; it’s about maintaining calcium levels in the blood, which is vital for heart and muscle function."
   },
   {
     "objectID": "posts/presentation/demo/index.html#meet-the-cellular-work-crew",
     "href": "posts/presentation/demo/index.html#meet-the-cellular-work-crew",
     "title": "Bone Remodeling: How the Skeleton Renews Itself",
     "section": "Meet the “Cellular Work Crew”",
-    "text": "Meet the “Cellular Work Crew”\n\nOsteoclasts (The “Clean-up” Crew):\n\nLarge, multi-nucleated cells.\nFunction: Secrete acids and enzymes to dissolve bone.\n\nOsteoblasts (The “Builders”):\n\nCuboidal cells that produce osteoid (unmineralized bone).\n\nOsteocytes (The “Managers”):\n\nFormer osteoblasts trapped in the matrix; they sense mechanical strain and tell the others when to start working.\n\n\n\nVisual Directive: A diagram illustrating the physical differences in cell shapes and their specific actions on the bone surface (osteoclasts vs. osteoblasts)."
+    "text": "Meet the “Cellular Work Crew”\n\nOsteoclasts (The “Clean-up” Crew):\n\nLarge, multi-nucleated cells.\nFunction: Secrete acids and enzymes to dissolve bone.\n\nOsteoblasts (The “Builders”):\n\nCuboidal cells that produce osteoid (unmineralized bone).\n\nOsteocytes (The “Managers”):\n\nFormer osteoblasts trapped in the matrix; they sense mechanical strain and tell the others when to start working."
   },
   {
     "objectID": "posts/presentation/demo/index.html#the-delicate-balance",
     "href": "posts/presentation/demo/index.html#the-delicate-balance",
     "title": "Bone Remodeling: How the Skeleton Renews Itself",
     "section": "The Delicate Balance",
-    "text": "The Delicate Balance\n\nThe Equilibrium: In a healthy adult, the rate of resorption equals the rate of formation.\nThe Tipping Point:\n\nToo much resorption: Leads to porous, brittle bones.\nToo much formation: Can lead to bone spurs or abnormally thick, heavy bones.\n\n\n\nVisual Directive: A “Scale” graphic (seesaw). On a healthy slide, the scale is level. On an “unhealthy” slide, the “Resorption” side is weighed down."
+    "text": "The Delicate Balance\n\nThe Equilibrium: In a healthy adult, the rate of resorption equals the rate of formation.\nThe Tipping Point:\n\nToo much resorption: Leads to porous, brittle bones.\nToo much formation: Can lead to bone spurs or abnormally thick, heavy bones."
   },
   {
     "objectID": "posts/presentation/demo/index.html#hormonal-control-the-bodys-thermostat",
     "href": "posts/presentation/demo/index.html#hormonal-control-the-bodys-thermostat",
     "title": "Bone Remodeling: How the Skeleton Renews Itself",
     "section": "Hormonal Control – The Body’s Thermostat",
-    "text": "Hormonal Control – The Body’s Thermostat\n\nParathyroid Hormone (PTH):\n\nReleased when blood calcium is low.\nStimulates osteoclasts to break down bone and release calcium into the blood.\n\nCalcitonin:\n\nReleased by the thyroid when blood calcium is high.\nInhibits osteoclasts and encourages calcium “storage” in the bone.\n\n\n\nVisual Directive: A feedback loop diagram showing the Parathyroid and Thyroid glands interacting with the skeleton for hormonal regulation of calcium."
+    "text": "Hormonal Control – The Body’s Thermostat\n\nParathyroid Hormone (PTH):\n\nReleased when blood calcium is low.\nStimulates osteoclasts to break down bone and release calcium into the blood.\n\nCalcitonin:\n\nReleased by the thyroid when blood calcium is high.\nInhibits osteoclasts and encourages calcium “storage” in the bone."
   },
   {
     "objectID": "posts/presentation/demo/index.html#why-remodeling-matters",
     "href": "posts/presentation/demo/index.html#why-remodeling-matters",
     "title": "Bone Remodeling: How the Skeleton Renews Itself",
     "section": "Why Remodeling Matters",
-    "text": "Why Remodeling Matters\n\nMicro-damage Repair: Fixes microscopic “stress fractures” caused by daily activity.\nAdaptation: Bones thicken in response to weight-bearing exercise (Wolff’s Law).\nSystemic Health: Provides a “bank” of calcium for:\n\nMuscles: Essential for contraction.\nNerves: Required for sending electrical signals.\n\n\n\nVisual Directive: A graphic showing a tennis player’s dominant arm bone being denser than their non-dominant arm bone to show adaptation."
+    "text": "Why Remodeling Matters\n\nMicro-damage Repair: Fixes microscopic “stress fractures” caused by daily activity.\nAdaptation: Bones thicken in response to weight-bearing exercise (Wolff’s Law).\nSystemic Health: Provides a “bank” of calcium for:\n\nMuscles: Essential for contraction.\nNerves: Required for sending electrical signals."
   },
   {
     "objectID": "posts/presentation/demo/index.html#clinical-disorder-osteoporosis",
     "href": "posts/presentation/demo/index.html#clinical-disorder-osteoporosis",
     "title": "Bone Remodeling: How the Skeleton Renews Itself",
     "section": "Clinical Disorder – Osteoporosis",
-    "text": "Clinical Disorder – Osteoporosis\n\nDefinition: A systemic skeletal disorder characterized by low bone mass.\nThe Cellular Cause: Osteoclasts outpace Osteoblasts.\nRisk Factors: Aging, hormonal changes (menopause), and lack of Vitamin D/Calcium.\n\n\nVisual Directive: A side-by-side microscopic comparison showing the “thinning” of the bone lattice (healthy bone vs. osteoporosis)."
+    "text": "Clinical Disorder – Osteoporosis\n\nDefinition: A systemic skeletal disorder characterized by low bone mass.\nThe Cellular Cause: Osteoclasts outpace Osteoblasts.\nRisk Factors: Aging, hormonal changes (menopause), and lack of Vitamin D/Calcium."
   },
   {
     "objectID": "posts/presentation/demo/index.html#summary-key-takeaways",
     "href": "posts/presentation/demo/index.html#summary-key-takeaways",
     "title": "Bone Remodeling: How the Skeleton Renews Itself",
     "section": "Summary & Key Takeaways",
-    "text": "Summary & Key Takeaways\n\nLifelong Process: Your skeleton is never “finished.”\nPrecision Control: Driven by specialized cells and regulated by hormones.\nFoundational Health: Understanding remodeling is key to preventing fractures and maintaining mobility into old age.\n\n\nVisual Directive: A “Summary Icon” list: A cell icon, a hormone icon, and a strong-arm icon."
+    "text": "Summary & Key Takeaways\n\nLifelong Process: Your skeleton is never “finished.”\nPrecision Control: Driven by specialized cells and regulated by hormones.\nFoundational Health: Understanding remodeling is key to preventing fractures and maintaining mobility into old age."
   },
   {
     "objectID": "posts/presentation/demo/index.html#references-further-reading",
